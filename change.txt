@@ -1,1 +1,2 @@
 name=sandy
+password=123
